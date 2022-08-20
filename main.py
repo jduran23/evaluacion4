@@ -10,7 +10,7 @@ APIC_HOST = "https://10.10.20.14"
 APIC_USERNAME = conf(conf.usuario)
 APIC_PASSWORD = conf(conf.clave)
 
-tenant_name = "Usach"
+tenant_name = "Usach_2"
 vrf_name = "Usach_VRF"
 bridge_domain_name = "Usach_WEB_BD"
 bridge_domain_subnet = "192.168.10.1/24"
